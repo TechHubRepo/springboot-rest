@@ -26,4 +26,4 @@ Goto project cloning directory and use any one option from following to run the 
 		$ mvn spring-boot:run
 	Option 2
 		Step 1 :  $ mvn clean compile package
-		Step 2 :  $ java -jar target/bookstore.war
+		Step 2 :  $ java -jar target/filename.war
